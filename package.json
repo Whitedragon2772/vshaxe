@@ -22,7 +22,7 @@
 	"author": "Dan Korostelev",
 	"license": "MIT",
 	"dependencies": {
-		"vscode-languageclient": "^8.0.1"
+		"vscode-languageclient": "^8.1.0"
 	},
 	"devDependencies": {
 		"lix": "^15.10.1",
